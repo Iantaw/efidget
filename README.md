@@ -21,3 +21,10 @@
   <img width="578" height="398" alt="image" src="https://github.com/user-attachments/assets/c8149a0d-c843-4c25-a21e-4d59d0c87f5f" />
   <img width="863" height="348" alt="image" src="https://github.com/user-attachments/assets/41878133-84ca-4e22-9c4f-81c54e63dd8e" />
 
+- Session 3: 30 mins at home
+  - Created all the firmware
+  - Learn't how to use arrays/lists in Arduino IDE!
+  - Screenshot of progress:
+  <img width="959" height="504" alt="image" src="https://github.com/user-attachments/assets/c60dc259-c2d0-487c-bcff-5bd2ad0ca904" />
+
+
